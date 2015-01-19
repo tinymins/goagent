@@ -1962,6 +1962,7 @@ var autoproxy_host = {
     "qxbbs.org": 1,
     "radioaustralia.net.au": 1,
     "radiovaticana.org": 1,
+    "raidtalk.com.tw": 1,
     "raidcall.com.tw": 1,
     "rangzen.org": 1,
     "ranyunfei.com": 1,
